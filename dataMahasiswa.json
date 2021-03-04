@@ -1,0 +1,49 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "Nim": 1841720049,
+      "Nama": "Nurus Laily Aprilia",
+      "alamat": "Jl. Ikan Tombro Timur RT 4 RW 4 Malang",
+      "hp": "08816254736",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "id": 2,
+      "Nim": 1841720028,
+      "Nama": "Livia Yurike Khuril Maula",
+      "alamat": "Jl. Ikan Piranha Atas Malang",
+      "hp": "081625468763",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "id": 3,
+      "Nim": 1841720048,
+      "Nama": "Osa Mahanani Sihono",
+      "alamat": "Jl. Ikan Piranha Atas Blitar",
+      "hp": "085625468763",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "id": 1614818048556,
+      "Nim": "1842720002",
+      "Nama": "Bella Setyowati",
+      "alamat": "Jl. Pakis",
+      "hp": "08523456789",
+      "angkatan": "2018",
+      "status": "aktif"
+    },
+    {
+      "id": 1614818856239,
+      "Nim": "1841720089",
+      "Nama": "Fahmi Firmansyah",
+      "alamat": "Jl. Arjosari",
+      "hp": "08545678923",
+      "angkatan": "2018",
+      "status": "aktif"
+    }
+  ]
+}
